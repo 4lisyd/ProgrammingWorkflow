@@ -15,30 +15,30 @@
 
 
 
-##Start a new named session:
+## Start a new named session:
 
 tmux new -s session_name
 
-##🗂️ Managing Sessions
-###List all sessions:
+## 🗂️ Managing Sessions
+### List all sessions:
 
 tmux ls
 
-###Attach to a session:
+### Attach to a session:
 
 tmux attach -t session_name
 
-###Detach from a session:
+### Detach from a session:
 
 Inside tmux, press:
 
 Ctrl + b, then d
 
-###Kill a session:
+### Kill a session:
 
 tmux kill-session -t session_name
 
-###Rename a session:
+### Rename a session:
 
 Inside tmux:
 
