@@ -8,3 +8,4 @@ I use the following programming frameworks, tools etc to make my workings faster
 4. OMZ plugins for terminal =(git autojump web-search zsh-syntax-highlighting zsh-autosuggestions)
 5. venv + conda (package management)
 6. Running scripts with persistence with Caffeine, amphatemine, tmux.
+7. Python time optimisation, profiling with line_profiler.
