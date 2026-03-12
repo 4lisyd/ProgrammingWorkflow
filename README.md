@@ -10,3 +10,4 @@ I use the following programming frameworks, tools etc to make my workings faster
 6. Running scripts with persistence with Caffeine, amphatemine, tmux.
 7. Python time optimisation, profiling with line_profiler.
 8. Espanso for complex OS wide quick textreplacement (enhances llm prompting speed)
+9. Yazi, file manager and explorer
