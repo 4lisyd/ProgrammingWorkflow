@@ -16,6 +16,7 @@
 12. Opencode + Hermes + locally run LLM (currently Qwen3.5 27B and A3-35B for context longer than 100k , locally compiled llama.cpp) for truly decentralised use of AI, big big big fan of anything open-sourced.
 13. Quick data visualisation/ view, xan, qsv, visidata.
 14. Networking, gping, xh.
+15. Favourite coding theme [Heisenburg.Helix](https://github.com/helix-editor/helix/blob/master/runtime/themes/heisenberg.toml)
 
 
 Dilemas to be resolved:
