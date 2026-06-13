@@ -14,14 +14,15 @@
 10. Espanso for complex OS wide quick textreplacement (enhances llm prompting speed)
 11. Yazi, file manager and explorer. 
 12. Opencode + Hermes + locally run LLM (currently Qwen3.5 27B and A3-35B for context longer than 100k , locally compiled llama.cpp) for truly decentralised use of AI, big big big fan of anything open-sourced.
-13. Quick data visualisation/ view, xan, qsv, visidata.
-14. Networking, gping, xh.
-15. Favourite coding theme [Heisenburg.Helix](https://github.com/helix-editor/helix/blob/master/runtime/themes/heisenberg.toml)
+13. [context management] OC + magic context, Aider.
+14. Quick data visualisation/ view, xan, qsv, visidata.
+15. Networking, gping, xh.
+16. Favourite coding theme [Heisenburg.Helix](https://github.com/helix-editor/helix/blob/master/runtime/themes/heisenberg.toml)
 
 
 Dilemas to be resolved:
 
-helix or vim? xan or qsv? MMMMMMMMMMMMMMM or MMMMMMMMMMMMMMMMM? 
+helix or vim? xan or qsv? MMMMMMMMMMMMMMM or MMMMMMMMMMMMMMMMM? Context pruning?
 
 
 ## 🔒 My dotfiles are private.
