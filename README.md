@@ -18,6 +18,7 @@
 14. Quick data visualisation/ view, xan, qsv, visidata.
 15. Networking, gping, xh.
 16. Favourite coding theme [Heisenburg.Helix](https://github.com/helix-editor/helix/blob/master/runtime/themes/heisenberg.toml)
+17. Pear-desktop, torlink (baairon)
 
 
 Dilemas to be resolved:
